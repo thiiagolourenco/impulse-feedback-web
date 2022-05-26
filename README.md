@@ -1,11 +1,11 @@
 <h1 align="center">
   Feedback Feature
 </h1>
-
-[![Author](https://img.shields.io/badge/author-thiiagolourenco-8257E5?style=flat-square)](https://github.com/thiiagolourenco)
-[![Languages](https://img.shields.io/github/languages/count/thiiagolourenco/impulse-feedback-web?color=%238257E5&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/thiiagolourenco/impulse-feedback-web?color=8257E5&style=flat-square)](https://github.com/thiiagolourenco/impulse-feedback-web/stargazers)
-
+<div align="center">
+  [![Author](https://img.shields.io/badge/author-thiiagolourenco-8257E5?style=flat-square)](https://github.com/thiiagolourenco)
+  [![Languages](https://img.shields.io/github/languages/count/thiiagolourenco/impulse-feedback-web?color=%238257E5&style=flat-square)]   (#)
+  [![Stars](https://img.shields.io/github/stars/thiiagolourenco/impulse-feedback-web?color=8257E5&style=flat-square)](https://github.com/thiiagolourenco/impulse-feedback-web/stargazers)
+</div>
 <h4 align="center">
   This project build a feedback feature.
 </h4>
