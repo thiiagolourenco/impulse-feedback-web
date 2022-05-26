@@ -2,10 +2,6 @@
   Feedback Feature
 </h1>
 
-[![Author](https://img.shields.io/badge/author-thiiagolourenco-8257E5?style=flat-square)](https://github.com/thiiagolourenco)
-[![Languages](https://img.shields.io/github/languages/count/thiiagolourenco/impulse-feedback-web?color=%238257E5&style=flat-square)]   (#)
-[![Stars](https://img.shields.io/github/stars/thiiagolourenco/impulse-feedback-web?color=8257E5&style=flat-square)](https://github.com/thiiagolourenco/impulse-feedback-web/stargazers)
-
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thiiagolourenco/impulse-feedback-web?color=%2304D361">
