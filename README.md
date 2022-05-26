@@ -1,6 +1,6 @@
-<div align="center">
-  ## Feedback Feature
-</div>
+<h1 align="center">
+  Feedback Feature
+</h1>
 
 [![Author](https://img.shields.io/badge/author-thiiagolourenco-8257E5?style=flat-square)](https://github.com/thiiagolourenco)
 [![Languages](https://img.shields.io/github/languages/count/thiiagolourenco/impulse-feedback-web?color=%238257E5&style=flat-square)](#)
