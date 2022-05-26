@@ -6,16 +6,17 @@
 [![Languages](https://img.shields.io/github/languages/count/thiiagolourenco/impulse-feedback-web?color=%238257E5&style=flat-square)]   (#)
 [![Stars](https://img.shields.io/github/stars/thiiagolourenco/impulse-feedback-web?color=8257E5&style=flat-square)](https://github.com/thiiagolourenco/impulse-feedback-web/stargazers)
 
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thiiagolourenco/impulse-feedback-web?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/thiiagolourenco/impulse-feedback-web">
+</p>
+
 <h4 align="center">
   This project build a feedback feature.
 </h4>
 
 ## Tecnologies
-
-<div align="center">
-  <br />
-  <img src="./tech-logos.png" alt="Technologies used">
-</div>
 
 This project was developed using cutting edge front-end technologies.
 
