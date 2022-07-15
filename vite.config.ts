@@ -8,8 +8,5 @@ export default defineConfig({
     outDir: "dist",
     minify: "terser",
     emptyOutDir: true,
-    rollupOptions: {
-      external: ["react", "react-dom"],
-    },
   }
 });
