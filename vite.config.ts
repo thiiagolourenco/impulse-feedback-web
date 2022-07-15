@@ -11,8 +11,5 @@ export default defineConfig({
     rollupOptions: {
       external: ["react", "react-dom"],
     },
-  },
-  resolve: {
-    extensions: [".js", ".jsx", ".ts", ".tsx"],
-  },
+  }
 });
