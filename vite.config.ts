@@ -8,7 +8,6 @@ export default defineConfig({
     outDir: "dist",
     minify: "terser",
     emptyOutDir: true,
-    chunkSizeWarningLimit: 550,
     rollupOptions: {
       external: ["react", "react-dom"],
     },
