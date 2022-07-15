@@ -11,12 +11,6 @@ export default defineConfig({
     chunkSizeWarningLimit: 550,
     rollupOptions: {
       external: ["react", "react-dom"],
-      output: {
-        globals: {
-          react: "react",
-          "react-dom": "react-dom",
-        },
-      },
     },
   },
   resolve: {
